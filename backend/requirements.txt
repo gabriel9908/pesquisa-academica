@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+psycopg2-binary
+SQLAlchemy>=2.0,<2.1
+databases[postgresql]
+boto3
+redis
+python-dotenv
